@@ -1,0 +1,21 @@
+FullRecipe
+ [x] Has title
+ [x] Has all ingridients
+ [x] Has all instruction
+ [x] Has yield
+ [x] Has source
+ [x] Has tags
+ [x] Has all recipes
+ [x] Collection has all title
+ [x] Can be filtered by tag
+ [x] Can get combined ingredient
+
+RecipeCollection
+ [x] Can be created with empty title
+
+Recipes
+ [x] Can be create with empty title
+ [x] Add ingridient must receive valid amount
+ [x] Add ingridient must receive valid measurement
+ [x] Can call recipe directly
+
